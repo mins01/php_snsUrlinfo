@@ -1,6 +1,9 @@
 # snsUrlinfo
 
-https://github.com/mins01/web_work_doc/tree/master/php/snsUrlinfo
+https://github.com/mins01/php_snsUrlinfo
+(old) https://github.com/mins01/web_work_doc/tree/master/php/snsUrlinfo
+
+
 
 ## SNS URL 에서 
 1. USER ID 와 POST ID, 서비스명, 서비스 도메인을 알아온다.
